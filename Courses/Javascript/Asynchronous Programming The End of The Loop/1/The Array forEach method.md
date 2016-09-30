@@ -1,0 +1,9 @@
+# 📓 The Array forEach method
+
+
+
+
+
+
+
+

@@ -1,0 +1,9 @@
+# 📓 Error handling operator
+
+
+
+
+
+
+
+
