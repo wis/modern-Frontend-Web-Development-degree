@@ -1,0 +1,1 @@
+Recursion is a technique well suited to certain types of tasks. In this first lesson we’ll look at solving a problem that requires the flattening of arrays without using recursion. Showing the shortcoming of a non-recursive solution first will help you to understand why it’s so valuable and why sometimes it's the only solution to many problem.
