@@ -42,10 +42,10 @@ Open Source
 
 Git
 3. Practical Git for Everyday Professional Use
-	1	02:34	misc practical git create local repos with git init
-	2	01:06	misc practical git copy remote repos to local machines with git clone
-	3	03:42	misc practical git capture code history snapshots with git add commit push
-	4	01:26	misc practical git document repos with readme files
+	1	02:34	create local repos with git init
+	2	01:06	copy remote repos to local machines with git clone
+	3	03:42	capture code history snapshots with git add commit push
+	4	01:26	document repos with readme files
 	5	01:38	sync local and remote repos with git pull
 	6	02:19	isolate feature development with git branch
 	7	02:27	sync branches with git merge
@@ -61,7 +61,7 @@ Git
 	17	05:42	clean up commits with git rebase
 	18	02:49	diagnose which commit broke something with git bisect
 	19	02:58	run scripts on git events with git hooks
-	20	02:33	misc practical git configure global settings with git config
+	20	02:33	configure global settings with git config
 	21	02:36	remove unnecessary git tracking with gitignore files
 	22	00:57	remove all unnecessary git tracking with a global gitignore file
 
