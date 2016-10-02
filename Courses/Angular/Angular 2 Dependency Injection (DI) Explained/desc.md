@@ -2,7 +2,7 @@
 
 ## Angular 2 Dependency Injection (DI) Explained
 ### 27 minutes
-  
+
   This course will teach you the ins and outs of dependency injection in Angular 2. You will learn what dependency injection means, how it applies to software in general and how it is implemented in Angular 2. We will take a look at simple use cases like injecting services, to exploring different providers recipes and when they are useful. We will also cover almost unknown features like viewProviders, OpaqueToken and edge cases where forwardRef() is needed.
 
 1. What is Dependency Injection? 2:36
