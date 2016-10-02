@@ -8,3 +8,17 @@ In this course we will gain intermediate knowledge of RxJS, focusing on one aspe
 Start following this course if you have a superficial understanding of RxJS, but want to gain confidence in using it.
 
 If you're new to RxJS, we highly recommend this Async JS course from Jafar Husain to get a solid intro to the concepts. From there, you can watch this Introduction to Reactive Programming using RxJS, and you will be prepared for this course!
+
+		1	01:00	let s learn rxjs
+		2	06:43	observables are almost like functions
+		3	03:21	observables push compared to generator functions pull
+		4	01:39	observables can throw errors
+		5	01:48	observables can complete
+		6	02:06	creation operator of
+		7	03:41	creation operators from fromarray frompromise
+		8	03:49	creation operators fromeventpattern fromevent
+		9	02:48	creation operators empty never throw
+		10	04:11	creation operators interval and timer
+		11	03:03	creation operator create
+		12	03:14	returning subscriptions from the subscribe function
+		13	00:54	observables are the foundation in rxjs

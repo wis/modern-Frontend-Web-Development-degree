@@ -6,17 +6,17 @@ https://egghead.io/courses/introduction-to-node-the-fundamentals Understanding N
 * Use debugging tools to identify and resolve errors in your code
 Implement best-practice TDD and BDD principles to ensure your code is scalable, maintainable, and reproducible  
 
-1 Using the node.js REPL shell 4:19
-2 Understanding Callbacks in Node.js 7:03P
-3 The node.js process object 6:26
-4 Node.js Global Namespace 4:42
-5 Node.js Buffers 10:30
-6 Introduction to Node.js Modules 6:23P
-7 Exporting Modules in Node 5:50P
-8 Finding and installing packages in your node application using npm 8:14
-9 Using the Node.js net module to create a tcp server 3:54P
-10 Creating a Node.js module 4:30P
-11 Using the node.js http server 4:08P
-12 Publishing a Module to the NPM Registry 3:22P
-13 Using EventEmitters in Node.js 6:00P
-14 Managing Memory and Garbage Collection in Node.js 8:40P
+	1	04:19	using the node js repl shell
+	2	07:03	understanding callbacks in node js
+	3	06:26	the node js process object
+	4	04:42	node js global namespace
+	5	10:30	node js buffers
+	6	06:23	introduction to modules
+	7	05:50	exporting modules in node
+	8	08:14	finding and installing packages in your node application using npm
+	9	03:54	using the node js net module to create a tcp server
+	10	04:30	creating a node js module
+	11	04:08	using the node js http server
+	12	03:22	publishing a module to the npm registry
+	13	06:00	using eventemitters in node js
+	14	08:40	managing memory and garbage collection in node js
