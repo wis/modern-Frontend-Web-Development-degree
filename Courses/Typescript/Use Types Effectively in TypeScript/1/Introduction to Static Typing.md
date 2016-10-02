@@ -1,0 +1,9 @@
+# 📓 Introduction to Static Typing
+
+
+
+
+
+
+
+
