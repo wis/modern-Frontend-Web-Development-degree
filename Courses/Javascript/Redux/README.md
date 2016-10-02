@@ -1,8 +1,8 @@
 ## Getting Started with Redux
 ### 121 minutes
 
-I had no idea why I'd want to use Redux when I started this course. This course really made it easy to understand the how & why of redux. Thanks Dan!
-Managing state in an application is critical, and is often done haphazardly. Redux provides a state container for JavaScript applications that will help your applications behave consistently.
+I had no idea why I'd want to use Redux when I started this course. [This course really made it easy to understand the how & why of redux. [Thanks Dan!
+Managing state in an application is critical, and is often done haphazardly. [Redux provides a state container for JavaScript applications that will help your applications behave consistently.
 
 Redux is an evolution of the ideas presented by Facebook's Flux, avoiding the complexity found in Flux by looking to how applications are built with the Elm language.
 
