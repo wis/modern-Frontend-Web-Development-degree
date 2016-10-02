@@ -294,9 +294,21 @@
 	12	05:59	reflection and decorator metadata
 	13	05:51	definition files
 	14	02:41	generating definition files
-
+	
+## 20. [Use Types Effectively in TypeScript](Courses/Typescript/Use%20Types%20Effectively%20in%20TypeScript)
+	1	01:39	Introduction to Static Typing
+	2	02:52	Using Type Inference in TypeScript
+	3	05:01	Union Types and Type Aliases in TypeScript
+	4	02:02	Distinguishing between types of Strings in TypeScript
+	5	03:32	Using Interfaces to Describe Types in TypeScript
+	6	04:00	Creating a Class in TypeScript
+	7	03:42	Sharing Class Behavior with Inheritance in TypeScript
+	8	02:09	Using Assertion to Convert Types in TypeScript
+	9	02:07	The Basics of Generics in TypeScript
+	10	02:52	Practical Generics in TypeScript
+	
 # Angular
-## 20. [Angular 2 Dependency Injection (DI) Explained](Courses/Angular/Angular%202%20Dependency%20Injection%20(DI)%20Explained)
+## 21. [Angular 2 Dependency Injection (DI) Explained](Courses/Angular/Angular%202%20Dependency%20Injection%20(DI)%20Explained)
 	1	02:36	what is dependency injection b9f0c87e
 	2	03:07	injecting a service into a component
 	3	03:57	understanding providers (1)
@@ -306,7 +318,7 @@
 	7	03:00	value providers
 	8	03:53	understanding opaquetoken
 
-## 21. [Angular Fundamentals](Courses/Angular/Fundamentals)
+## 22. [Angular Fundamentals](Courses/Angular/Fundamentals)
 	1	00:50	say hello world to angular 2
 	2	01:43	angular 2 writing a simple angular 2 component (1)
 	3	01:22	using events and refs
@@ -328,7 +340,7 @@
 	19	02:23	organizing angular 2 projects by feature
 	20	04:33	overview of angular 2 and what to learn next
 
-## 22. [Building Angular 2 Components](Courses/Angular/Building%20Angular%202%20Components)
+## 23. [Building Angular 2 Components](Courses/Angular/Building%20Angular%202%20Components)
 	1	02:32	create an angular 2 hello world component
 	2	01:16	structure a basic angular 2 application
 	3	02:51	create application specific angular 2 components
@@ -346,7 +358,7 @@
 	15	01:25	generate and render angular 2 template elements in a component
 	16	00:58	set values on generated angular 2 templates with template context
 
-## 23. [Intro to Angular 2 Forms](Courses/Angular/Intro%20to%20Angular%202%20Forms)
+## 24. [Intro to Angular 2 Forms](Courses/Angular/Intro%20to%20Angular%202%20Forms)
 	1	01:39	create a basic angular 2 ngmodel input
 	2	00:55	check ngmodel validation in angular 2
 	3	02:59	display validation and error messaging in angular 2
@@ -358,7 +370,7 @@
 	9	05:48	create radio buttons for angular 2 forms
 	10	01:10	build select dropdowns for angular 2 forms
 
-## 24. [Build an Angular 2 Instant Search Component](Courses/Angular/Build%20an%20Angular%202%20Instant%20Search%20Component)
+## 25. [Build an Angular 2 Instant Search Component](Courses/Angular/Build%20an%20Angular%202%20Instant%20Search%20Component)
 	1	03:07	consuming events as obser...
 	2	01:25	building an instant search with angular2 debouncing the ...
 	3	01:15	preventing unnecessary requests
@@ -366,7 +378,7 @@
 	5	01:34	dealing with out of order responses
 	6	01:58	building fully...
 
-## 25. [Intro to Angular 2 Router](Courses/Angular/Intro%20to%20Angular%202%20Router)
+## 26. [Intro to Angular 2 Router](Courses/Angular/Intro%20to%20Angular%202%20Router)
 	1	03:31	configure your first angular 2 route
 	2	00:49	map a second angular 2 route to a component
 	3	00:38	build angular 2 navigation with routerlink
@@ -378,7 +390,7 @@
 	9	03:29	load data to build angular 2 navigation
 	10	05:16	load data based on angular 2 route params
 
-## 26. [Build Redux Style Applications with Angular2, RxJS, and ngrxstore](Courses/Angular/Build%20Redux%20Style%20Applications%20with%20Angular2%2C%20RxJS%2C%20and%20ngrxstore)
+## 27. [Build Redux Style Applications with Angular2, RxJS, and ngrxstore](Courses/Angular/Build%20Redux%20Style%20Applications%20with%20Angular2%2C%20RxJS%2C%20and%20ngrxstore)
 	1	02:19	rendering an observable with the async pipe
 	2	01:05	rendering an observable date with the async and date pipes
 	3	01:33	handling click events with subjects
