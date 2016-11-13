@@ -1,5 +1,5 @@
 # Open Source
-## 1. [Make How to Contribute to an Open Source Project on GitHub](Courses/Open%20Source/How%20to%20Write%20an%20Open%20Source%20JavaScript%20Library)
+## 1. [How to Contribute to an Open Source Project on GitHub](Courses/Open%20Source/How%20to%20Write%20an%20Open%20Source%20JavaScript%20Library)
 	1	00:47	introduction to github
 	2	01:47	exploring github
 	3	04:07	exploring a repository
