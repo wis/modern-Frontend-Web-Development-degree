@@ -28,4 +28,4 @@ and is more **wasteful** of compute resources & thus money (because of **overpro
 - Functions Scale Independently (down to 0 if needed)
 - Functions are Isolated from one another
 - Stateless/ephemeral
-- More closely maches your traffic pattern and User behavior (some functions executed a lot, some a little)
+- More closely matches your traffic pattern and User behavior (some functions executed a lot, some a little)
