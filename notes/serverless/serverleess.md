@@ -18,7 +18,7 @@ and is more **wasteful** of compute resources & thus money (because of **overpro
 - get the IP Address of the machine (or the load balancing solution IP Address) and manually set records for your Domain.
 
 # Why the hype?, Is it the new thing?, Why FAAS?
-- you can't get rid of the overprovisioning problem completley. but it's inappreciable with the FAAS model.
+- you can't get rid of the overprovisioning problem completely. but it's inappreciable with the FAAS model.
 - deploying functions is the easiest and the most flexable.
     - continuous deployment is easy with:
         - a function versioning *(application specific)* solution.
