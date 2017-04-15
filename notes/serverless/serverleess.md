@@ -18,14 +18,14 @@ and is more **wasteful** of compute resources & thus money (because of **overpro
 - get the IP Address of the machine (or the load balancing solution IP Address) and manually set records for your Domain.
 
 # Why the hype?, Is it the new thing?, Why FAAS?
-- you can't get rid of the overprovisioning problem completly. but it's inappreciable with the FAAS model.
+- you can't get rid of the overprovisioning problem completley. but it's inappreciable with the FAAS model.
 - deploying functions is the easiest and the most flexable.
-    - continious deployment is easy with:
+    - continuous deployment is easy with:
         - a function versioning *(application specific)* solution.
-        - paying only for what you use *(function invokations)* not what you deply.
-    - no microservices headache, spinning up new instances *(machine / docker container)* to a specific microservice as you scale up. 
-# More advatages to the FAAS model
-- Fuctions Scale Independently (down to 0 if needed)
-- Fuctions are Isolated from one another
+        - paying only for what you use *(function invokations)* not what you deploy.
+    - no microservices headache, spinning up new instances *(machine / docker container)* for a specific microservice as you scale up. 
+# More advantages to the FAAS model
+- Functions Scale Independently (down to 0 if needed)
+- Functions are Isolated from one another
 - Stateless/ephemeral
 - More closely maches your traffic pattern and User behavior (some functions executed a lot, some a little)
