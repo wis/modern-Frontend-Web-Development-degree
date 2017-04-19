@@ -1,16 +1,16 @@
 # Google Cloud Functions
 - HTTP Functions
-    - *(currently)* free a TLS certifcate
-    - Sybchronous invocations over HTTPS.
+    - *(currently)* free a TLS certificate
+    - for synchronous use cases
+        - synchronous invocations over HTTPS.
     - you get a URL.
-    - for Sybchronous use cases
-    - will work out-of-the-box with  **Webhook** callback
+    - will work out-of-the-box with  *Webhook* callback
 - Background Functions
-    - Asynchoronously invoked by cloud events.
-    - where you don't need to know the output of the function in real-time.
+    - asynchronously invoked by cloud events.
+    - for use cases where you don't need to know the output of the function in real-time.
         - happy for it to be processed in the background.
-    - typical use and typically will be invoked whenan Event is emitted from a cloud service. 
-        - such as Google Cloud Storage
+    - typical use and typically will be invoked when an Event is emitted from a cloud service. such as:
+        - Google Cloud Storage
         - Firebase Realtime Database
 
 ## HTTP Functions
