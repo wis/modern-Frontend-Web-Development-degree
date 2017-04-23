@@ -21,7 +21,7 @@ promise.then(val => {
 
 ```
 
-![alt text] (https://github.com/wesamco/modern-Frontend-Web-Development-degree/blob/master/notes/node.js/asynchrony/credits-to-Wassim-Chegham%E2%80%8F.gif "Callbacks vs Promises vs async & await operators -credits to Wassim Chegham‏")
+![alt text] (https://raw.githubusercontent.com/wesamco/modern-Frontend-Web-Development-degree/master/notes/node.js/asynchrony/credits-to-Wassim-Chegham%E2%80%8F.gif "Callbacks vs Promises vs async & await operators -credits to Wassim Chegham‏")
 
 
 
