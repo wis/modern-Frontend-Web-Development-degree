@@ -2,7 +2,8 @@
 
 ## Asynchrony
 - ***any* object or function** that *represents* an *asynchronous* ***value* or *error***.
--### Examples:
+
+### Examples:
 ```js
 // Callbacks
 function callback(err,value) {
@@ -19,4 +20,9 @@ promise.then(val => {
 });
 
 ```
+
+![alt text] (https://github.com/wesamco/modern-Frontend-Web-Development-degree/tree/master/notes/node.js/asynchrony/credits-to-Wassim-Chegham‏.gif.gif "Callbacks vs Promises vs async & await operators -credits to Wassim Chegham‏")
+
+
+
 
